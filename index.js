@@ -1,3 +1,3 @@
 function luigiFunction() {
-  console.log("Test1");
+  console.log("lol1");
 }
